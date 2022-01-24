@@ -9,3 +9,5 @@ O que eu vou aprender na Trybe:
 - Estudar
 - Pensar
 - Agir
+- Aprender
+- Trabalhar
