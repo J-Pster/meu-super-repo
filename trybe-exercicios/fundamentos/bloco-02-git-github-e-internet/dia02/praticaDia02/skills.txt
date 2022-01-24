@@ -7,3 +7,5 @@ O que eu vou aprender na Trybe:
 - CSS
 - GitHub
 - Estudar
+- Aprender
+- Trabalhar
