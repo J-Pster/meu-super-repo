@@ -1,0 +1,33 @@
+body {
+    font-size: 16px;
+  }
+
+  h1 {
+    font-size: 65px;
+    color: orange;
+    font-family: sans-serif;
+  }
+
+  ul {
+    background-color: wheat;
+  }
+
+  .edit-p-ul {
+  }
+
+  p {
+    font-size: 3em;
+    font-weight: 600;
+  }
+
+  #am {
+    background-color: yellow;
+  }
+
+  #ve {
+    background-color: red;
+  }
+
+  #ma {
+    background-color: brown;
+  }
