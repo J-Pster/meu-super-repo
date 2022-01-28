@@ -2,12 +2,33 @@ div:hover {
     border: 1px solid #000;
 }
 
-h3 {
-    font-style: italic;
-    color: green;
+div:nth-child(3) {
+    background-color: red;
 }
 
-h3:nth-of-type(2n) {
-    font-style: normal;
-    color: red;
+div:nth-child(4) {
+    background-color: green;
+}
+
+div:nth-child(5) {
+    background-color: blue;
+    padding: 20px;
+}
+
+div:nth-child(6) {
+    background-color: brown;
+}
+
+div:nth-child(7) {
+    background-color: palevioletred;
+}
+
+h3 {
+    text-decoration: underline;
+    font-weight: 600;
+    font-size: 25px;
+}
+
+div:nth-child(odd) h3 {
+    font-style: italic;
 }
