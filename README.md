@@ -6,6 +6,20 @@ _"A Trybe é uma escola do futuro para qualquer pessoa que queira melhorar de vi
 
 O programa conta com mais de 1.500 horas de aulas online ao vivo, aborda introdução ao desenvolvimento de software, front-end, back-end, ciência da computação, engenharia de software, metodologias ágeis e habilidades comportamentais.
 
+# Sobre Mim! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+Olá, eu sou o João Pster, sou um Desenvolvedor Web Full-Stack, atuo na área da tecnologia desde muito pequeno (16 Anos), sempre fui interessado em aprender, criar e melhorar coisas que gerem valor na vida das pessoas.
+
+Tenho uma grande desenvoltura para administrar (liderar) grupos de qualquer tipo, sou um bom orador e professor, tenho facilidade para desenvolver projetos de organização e geralmente sou muito rápido para executar meus trabalhos. Sou um rápido e bom escritor, amante da língua culta, conhecedor vasto da gramática e escrita formal com extenso vocabulário, meus conhecimentos são muito variados e tenho várias habilidades, posso dizer que mesmo tendo 18 anos eu sou um "ancião" da internet (principalmente pelo fato de ter passado minha infância inteira nela) e já tive contato com quase todo tipo de experiência, conhecimento e área.
+
+Tenho grande facilidade de me concentrar e finalizar uma tarefa rapidamente, habilidade de perceber outros pontos de vistas e discrepâncias entre ideias, sempre fui muito iniciativo e autônomo, tenho interesse por áreas e tópicos diversos e facilidade para interagir com pessoas mais velhas.
+
+Você pode me encontrar no [LinkedIn][1], ou no [WhatsApp][2].
+
+<!-- Resources -->
+<!-- links to your social media accounts -->
+[1]: https://www.linkedin.com/in/joaopster/
+[2]: https://api.whatsapp.com/send?phone=5562992765354&text=Ol%C3%A1%2C%20%C3%A9%20o%20Pster%3F%20Venho%20do%20Github.
+
 ## Fundamentos do Desenvolvimento Web :hourglass_flowing_sand:
 
 #### Bloco 1: Introdução - Unix & Bash
