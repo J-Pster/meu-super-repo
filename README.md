@@ -37,9 +37,9 @@ Você pode me encontrar no [LinkedIn][1], ou no [WhatsApp][2].
 
 #### Bloco 3: Introdução à HTML & CSS
 
-- [X]1: _Introdução - HTML & CSS_
-- [X]1: _HTML & CSS - Estruturas de página_
-- [X]2: _HTML & CSS - Primeiros passos em CSS_
+- [X] 1: _Introdução - HTML & CSS_
+- [X] 1: _HTML & CSS - Estruturas de página_
+- [X] 2: _HTML & CSS - Primeiros passos em CSS_
 - [X] 3: _HTML & CSS - Seletores e posicionamento_
 - [ ] 4: _HTML Semântico_
 - [ ] 5: _[Projeto - Lessons Learned]()_
