@@ -1,0 +1,19 @@
+h1, p {
+    text-align: center;
+}
+
+ol:hover {
+    background-color: #e58d9f;
+}
+
+ol:active {
+    color: rgb(0, 248, 124);
+}
+
+ul {
+    list-style: none;
+}
+
+ol {
+    list-style: none;
+}
