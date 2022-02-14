@@ -154,3 +154,35 @@ function adicionarTarefa(tarefa) {
 }
 
 adicionarTarefa('Cozinhar');
+
+// -- Adicionado Cores nas Tarefas do Calendario
+
+function definirCorDaTarefa(cor) {
+  let localDaTarefa = document.querySelector('.my-tasks');
+  let corElemento = document.createElement('div')
+  corElemento.classList.add('task')
+  corElemento.style.backgroundColor = cor;
+
+  localDaTarefa.appendChild(corElemento);
+}
+
+definirCorDaTarefa('red');
+
+// Evento Click nas Cores
+
+document.querySelectorAll('.task').forEach(item => {
+  item.addEventListener('click', clickNaCorDaTarefa);
+})
+let clickCorAlternador = 0;
+
+function clickNaCorDaTarefa(event) {
+  let origem = event.target;
+
+  if (clickCorAlternador === 0) {
+    origem.classList.add('taskSelected')
+    clickCorAlternador = 1;
+  } else {
+    origem.classList.remove('taskSelected')
+    clickCorAlternador = 0;
+  }
+}
