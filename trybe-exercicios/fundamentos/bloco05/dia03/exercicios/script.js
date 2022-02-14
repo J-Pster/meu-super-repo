@@ -1,3 +1,6 @@
+const botaoFeriados = document.createElement('button');
+const botaoSexta = document.createElement('button');
+
 function createDaysOfTheWeek() {
   const weekDays = ['Domingo', 'Segunda', 'Terça', 'Quarta', 'Quinta', 'Sexta', 'Sábado']
   const weekDaysList = document.querySelector('.week-days');
@@ -14,6 +17,9 @@ function createDaysOfTheWeek() {
 createDaysOfTheWeek();
 
 // Escreva seu código abaixo.
+
+// -- Colocando os Dias no Mês
+
 const dezDaysList = [29, 30, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31];
 const daysLocation = document.querySelector('#days');
 
@@ -21,9 +27,130 @@ function setDaysOnTheMouth(daysList, daysLocation) {
   for (let index = 0; index < daysList.length; index += 1) {
     const dayItem = document.createElement('li');
     dayItem.innerHTML = daysList[index];
+    dayItem.classList.add('c-dia')
 
     daysLocation.appendChild(dayItem);
   };
 };
 
 setDaysOnTheMouth(dezDaysList, daysLocation);
+
+// -- Definindo Dias Especiais
+
+let feriadosDezembro = [24, 25, 31];
+
+function definirFeriados(feriados) {
+  let dias = daysLocation.children;
+  
+  for (let idays = 0; idays < dias.length; idays += 1) {
+    for (let iferi= 0; iferi < feriados.length; iferi += 1) {
+      if (dias[idays].textContent.includes(feriados[iferi])) {
+        dias[idays].classList.add('holiday')
+      }
+    }
+  }
+}
+
+definirFeriados(feriadosDezembro);
+
+let sextasDezembro = [4, 11, 18, 25];
+function definirSextas(sextas) {
+  let dias = daysLocation.children;
+  
+  for (let idays = 0; idays < dias.length; idays += 1) {
+    for (let iferi= 0; iferi < sextas.length; iferi += 1) {
+      if (dias[idays].textContent == sextas[iferi]) {
+        dias[idays].classList.add('fridays')
+      }
+    }
+  }
+}
+
+definirSextas(sextasDezembro);
+
+// Criado Botões
+
+function colocarBotaoNoContainer(tipo, classe, texto) {
+  const localBotao = document.querySelector('.buttons-container');
+  tipo.setAttribute('id', classe);
+  tipo.innerText = texto;
+
+  localBotao.appendChild(tipo);
+}
+
+colocarBotaoNoContainer(botaoFeriados, 'btn-holiday', 'Feriados');
+colocarBotaoNoContainer(botaoSexta, 'btn-friday', 'Sexta-Feira')
+
+// -- Adicionando Eventos
+
+// Evento do Botão de Feriado
+botaoFeriados.addEventListener('click', ativaEDesativaFeriados);
+let alternadorFeriados = 0;
+
+function ativaEDesativaFeriados() {
+  let diasDeFeriado = document.querySelectorAll('.holiday')
+
+  if (alternadorFeriados === 0) {
+    for (let dias of diasDeFeriado) {
+      dias.style.color = 'red';
+    }
+    alternadorFeriados = 1;
+  } else {
+    for (let dias of diasDeFeriado) {
+      dias.style.color = '#777';
+    }
+    alternadorFeriados = 0;
+  }
+}
+
+// Evento do Botão de Sexta
+botaoSexta.addEventListener('click', ativaEDesativaSextas);
+let alternadorSextas = 0;
+
+function ativaEDesativaSextas() {
+  let diasDeSexta = document.querySelectorAll('.fridays');
+
+  if (alternadorSextas === 0) {
+    for (let dias of diasDeSexta) {
+      dias.style.color = 'green';
+    }
+    alternadorSextas = 1;
+  } else {
+    for (let dias of diasDeSexta) {
+      dias.style.color = '#777';
+    }
+    alternadorSextas = 0;
+  }
+}
+
+// Evento de Mouse Over nos Dias
+
+document.querySelectorAll('.c-dia').forEach(item => {
+  item.addEventListener('mouseover', mouseOverDosDias);
+})
+
+document.querySelectorAll('.c-dia').forEach(item => {
+  item.addEventListener('mouseleave', mouseLeaveDosDias);
+})
+
+function mouseOverDosDias(event) {
+  let origem = event.target;
+  origem.style.fontSize = '28px';
+}
+
+function mouseLeaveDosDias(event) {
+  let origem = event.target;
+  origem.style.fontSize = '20px';
+}
+
+// -- Adicionando Tarefas no Calendario
+
+function adicionarTarefa(tarefa) {
+  let localDaTarefa = document.querySelector('.my-tasks');
+  let tarefaElemento = document.createElement('span');
+  tarefaElemento.innerText = tarefa;
+
+  localDaTarefa.appendChild(tarefaElemento);
+}
+
+adicionarTarefa('Cozinhar');
