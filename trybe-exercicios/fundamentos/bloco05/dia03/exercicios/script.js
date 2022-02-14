@@ -93,11 +93,13 @@ function ativaEDesativaFeriados() {
   if (alternadorFeriados === 0) {
     for (let dias of diasDeFeriado) {
       dias.style.color = 'red';
+      dias.style.fontSize = '22px';
     }
     alternadorFeriados = 1;
   } else {
     for (let dias of diasDeFeriado) {
       dias.style.color = '#777';
+      dias.style.fontSize = '20px';
     }
     alternadorFeriados = 0;
   }
@@ -113,11 +115,13 @@ function ativaEDesativaSextas() {
   if (alternadorSextas === 0) {
     for (let dias of diasDeSexta) {
       dias.style.color = 'green';
+      dias.style.fontSize = '22px';
     }
     alternadorSextas = 1;
   } else {
     for (let dias of diasDeSexta) {
       dias.style.color = '#777';
+      dias.style.fontSize = '20px';
     }
     alternadorSextas = 0;
   }
@@ -196,10 +200,44 @@ document.querySelectorAll('.c-dia').forEach(item => {
 function colocarCorNoDia(event) {
   let origem = event.target;
   let fonteCor = document.querySelector('.taskSelected');
+  if (fonteCor == null) return;
 
   if(origem.style.color == fonteCor.style.backgroundColor) {
     origem.style.color = '#777';
   } else {
     origem.style.color = fonteCor.style.backgroundColor;
   }
+}
+
+// -- BONUS: Adicionando Compromissos
+let botaoAdicionarCompromissos = document.querySelector('#btn-add');
+let input = document.querySelector('#task-input');
+botaoAdicionarCompromissos.addEventListener('click', compromissoBotao);
+input.addEventListener('keyup', compromissoEnter);
+
+function adicionarCompromisso() {
+  let compromisso = document.createElement('li');
+  let listaCompromissos = document.querySelector('.task-list');
+
+  if(input.value == '')  {
+    alert('Nenhum nome Definido para o Compromisso.');
+    return;
+  }
+
+  compromisso.innerHTML = input.value;
+  listaCompromissos.appendChild(compromisso)
+  input.value = '';
+}
+
+function compromissoEnter(event) {
+  console.log(event.keyCode)
+  if (event.keyCode === 13) {
+    adicionarCompromisso();
+  }
+
+  return;
+}
+
+function compromissoBotao() {
+  adicionarCompromisso();
 }
