@@ -127,11 +127,11 @@ function ativaEDesativaSextas() {
 
 document.querySelectorAll('.c-dia').forEach(item => {
   item.addEventListener('mouseover', mouseOverDosDias);
-})
+});
 
 document.querySelectorAll('.c-dia').forEach(item => {
   item.addEventListener('mouseleave', mouseLeaveDosDias);
-})
+});
 
 function mouseOverDosDias(event) {
   let origem = event.target;
@@ -166,7 +166,7 @@ function definirCorDaTarefa(cor) {
   localDaTarefa.appendChild(corElemento);
 }
 
-definirCorDaTarefa('red');
+definirCorDaTarefa('blue');
 
 // Evento Click nas Cores
 
@@ -184,5 +184,22 @@ function clickNaCorDaTarefa(event) {
   } else {
     origem.classList.remove('taskSelected')
     clickCorAlternador = 0;
+  }
+}
+
+// Evento Adicionar a Cor Nos Dias
+
+document.querySelectorAll('.c-dia').forEach(item => {
+  item.addEventListener('click', colocarCorNoDia);
+});
+
+function colocarCorNoDia(event) {
+  let origem = event.target;
+  let fonteCor = document.querySelector('.taskSelected');
+
+  if(origem.style.color == fonteCor.style.backgroundColor) {
+    origem.style.color = '#777';
+  } else {
+    origem.style.color = fonteCor.style.backgroundColor;
   }
 }
