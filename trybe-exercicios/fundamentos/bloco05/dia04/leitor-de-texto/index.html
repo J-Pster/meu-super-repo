@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Leitor de Textos</title>
+  </head>
+  <body>
+    <header id="cabecalho">
+      <h1>Este é um Leitor de Textos.</h1>
+      <h3>Opções de edição do Texto</h3>
+      <section class="caixaDeOpcoes">
+        <section class="opcoes">
+          <span>Cor de Fundo</span>
+          <input type="color" name="inputCorDeFundo" id="inputCorDeFundo">
+        </section>
+        <section class="opcoes">
+          <span>Cor do Texto</span>
+          <input type="color" name="inputCorDoTexto" id="inputCorDoTexto">
+        </section>
+        <section class="opcoes" id="caixaDeTamanhoFonte">
+          <span>Tamanho do Texto</span>
+          <input type="number" name="inputTamanhoFonte" id="inputTamanhoFonte">
+        </section>
+        <section class="opcoes" id="caixaAlturaLinha">
+          <span>Altura da Linha</span>
+          <input type="number" name="inputAlturaLinha" id="inputAlturaLinha">
+        </section>
+        <section class="opcoes">
+          <span>Tipo da Fonte</span>
+          <select name="selecaoDeFonte" id="selecaoDeFonte">
+            <option value="Times">Times</option>
+            <option value="Courier" selected>Courier</option>
+            <option value="monospace">MonoS</option>
+          </select>
+        </section>
+      </section>
+
+    </header>
+    <section id="texto">
+      <article class="textos">
+        <p id="primeiroParagrafo">
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec suscipit vestibulum dui sit amet elementum. Aenean sagittis turpis eget nunc venenatis mollis. Ut dui nunc, rhoncus in scelerisque ac, hendrerit ac mi. Etiam dignissim lacus a lacus venenatis venenatis. Aliquam risus justo, semper vitae neque a, varius porttitor purus. Etiam euismod, risus in blandit euismod, elit lacus semper lorem, eu dapibus ante nulla consequat tellus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Integer quis dignissim dui. Donec posuere, elit nec placerat semper, nulla justo maximus neque, quis vestibulum dolor elit iaculis nunc. Sed vulputate interdum urna ac gravida. Integer vehicula metus orci, ac consectetur urna ullamcorper a. Morbi vel dolor sed purus rutrum consectetur. Praesent non purus id turpis imperdiet euismod. Aenean accumsan tempus risus. Curabitur semper, dolor in efficitur finibus, eros purus posuere lorem, vulputate rutrum dolor ex sit amet libero. Vivamus vitae ligula lobortis, viverra est eget, consequat est.
+        </p>
+        <p>
+          Mauris sodales ipsum nibh, a convallis lacus lacinia a. Nunc luctus tempor leo, sed pretium erat ultricies non. Quisque interdum convallis magna. Curabitur suscipit, nibh in viverra euismod, dui eros luctus nisl, sit amet venenatis urna purus sed sapien. Donec eget mattis felis, id vulputate quam. Vestibulum nec risus sed ipsum gravida vehicula non at est. Sed nec lorem elit. Ut vestibulum metus at ullamcorper euismod. Aenean in porta est. Fusce quis diam sed massa consectetur feugiat. Aenean pretium pretium massa, vel pulvinar odio iaculis sit amet. Nam egestas eget risus et pulvinar. Mauris quis tortor quam.
+        </p>
+        <p>
+          Suspendisse ut placerat ante. Donec luctus massa a risus auctor dignissim. Quisque et nunc eu diam euismod ornare. Praesent nec libero id sem semper aliquet. Donec nec dui at lectus porttitor ornare. Integer convallis nisi ut nibh ultrices, mattis pharetra ante dignissim. Sed euismod accumsan euismod.
+        </p>
+        <p>
+          Suspendisse vitae nulla non neque faucibus elementum. Sed tincidunt eu ligula sit amet vestibulum. Duis elementum condimentum tincidunt. Nam at est augue. Suspendisse in elit tincidunt, ultricies libero sit amet, ornare turpis. Vivamus feugiat auctor tempor. Nulla a placerat lacus. Etiam pharetra et elit eget euismod. Suspendisse blandit consectetur nibh, id bibendum erat ornare in. Nullam non consequat sem. Nam in urna finibus, laoreet diam pulvinar, accumsan velit. Curabitur pretium nunc velit, nec pharetra dui venenatis eget. Quisque placerat dolor maximus dui tempor posuere. Aenean scelerisque dolor id libero congue, sit amet rhoncus nisl posuere. Vestibulum elementum fringilla hendrerit. Maecenas efficitur non nunc a maximus.
+        </p>
+        <p>
+          Vestibulum quis auctor magna, vel hendrerit tortor. Sed tincidunt, massa et dignissim aliquet, purus leo aliquet libero, at tincidunt nunc risus ac enim. Nunc ut mi accumsan, gravida lectus eget, ullamcorper quam. Etiam malesuada, arcu vel molestie pulvinar, metus ex posuere lacus, a tincidunt quam enim ut metus. Nunc eleifend mi ante, vulputate lobortis mauris volutpat fringilla. Nulla id metus nec turpis vehicula vestibulum. Sed augue erat, elementum ut scelerisque ac, convallis vel ante.
+        </p>
+      </article>
+      </section>
+    <script src="script.js"></script>
+  </body>
+</html>

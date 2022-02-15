@@ -1,0 +1,12 @@
+.opcoes {
+  border: 2px solid black;
+  display: inline-block;
+  padding: 5px;
+  vertical-align: middle;
+}
+
+.caixaDeOpcoes {
+  border: 1px solid #777;
+  padding: 3px;
+  align-content: center;
+}
