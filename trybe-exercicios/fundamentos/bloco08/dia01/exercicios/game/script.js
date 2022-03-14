@@ -33,6 +33,46 @@ const gerarDano = {
   mago: danoMago(),
 };
 
-const gameActions = {
-  // Crie as HOFs neste objeto.
+const turnoWarrior = () => {
+  const danoGerado = gerarDano.warrior;
+  dragon.healthPoints -= danoGerado;
+  warrior.damage = danoGerado;
 };
+
+const turnoDragon = () => {
+  const danoGerado = gerarDano.dragao;
+  warrior.healthPoints -= danoGerado;
+  mage.healthPoints -= danoGerado;
+  dragon.damage = danoGerado;
+};
+
+const turnoMago = () => {
+  const danoGerado = gerarDano.mago;
+  dragon.healthPoints -= danoGerado.dano;
+  mage.damage = danoGerado.dano;
+  mage.mana -= danoGerado.mana;
+};
+
+const gameActions = {
+  turno: {
+    warrior: turnoWarrior(),
+    mago: turnoMago(),
+    dragao: turnoDragon(),
+  },
+
+  battle: () => {
+    gameActions.turno.warrior;
+    gameActions.turno.mago;
+    gameActions.turno.dragao;
+
+    console.log('Resultado da Batalha:')
+    console.log('Warrior:')
+    console.table(warrior);
+    console.log('Mago:')
+    console.table(mage);
+    console.log('Dragão:')
+    console.table(dragon);
+  },
+};
+
+gameActions.battle();
