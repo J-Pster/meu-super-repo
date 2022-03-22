@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@900&family=Roboto&display=swap');
+
+body {
+  font-family: Roboto;
+  background-image: url('https://i1.wp.com/gurpreetvirdibains.com/wp-content/uploads/2019/01/slow-motion-serene-deep-space-galaxy-and-stars-background-black-and-white-4k_r77tk52fx_thumbnail-full15.png?ssl=1');
+  background-repeat: no-repeat;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+}
+
+#mainCriptos {
+  background: rgba(255, 254, 254, 0.1);
+  backdrop-filter: blur( 10px );
+  -webkit-backdrop-filter: blur( 20px );
+  border-radius: 10px;
+  padding: 20px 50px;
+  margin-top: 100px;
+}
+
+#mainCriptos h1 {
+  text-align: center;
+  text-shadow: 0 0 20px #000000;
+  font-size: 32px;
+  color: #000000;
+}
+
+#mainCriptos div div {
+  text-align: center;
+  text-shadow: 0 0 10px #000000;
+  color: #ffffff;
+}
