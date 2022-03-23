@@ -41,61 +41,61 @@ Você pode me encontrar no [LinkedIn][1], ou no [WhatsApp][2].
 - [X] 1: _HTML & CSS - Estruturas de página_
 - [X] 2: _HTML & CSS - Primeiros passos em CSS_
 - [X] 3: _HTML & CSS - Seletores e posicionamento_
-- [ ] 4: _HTML Semântico_
-- [ ] 5: _[Projeto - Lessons Learned]()_
+- [X] 4: _HTML Semântico_
+- [X] 5: _[Projeto - Lessons Learned]()_
 
 #### Bloco 4: Introdução à JavaScript e Lógica de Programação
 
-- [ ] 1: _Introdução - JavaScript_
-- [ ] 1: _JavaScript - Primeiros passos_
-- [ ] 2: _JavaScript - Array e loop For_
-- [ ] 3: _JavaScript - Lógica de Programação e Algoritmos_
-- [ ] 4: _JavaScript - Objetos e funções_
-- [ ] 5: _[Projeto - Playground Functions]()_
+- [X] 1: _Introdução - JavaScript_
+- [X] 1: _JavaScript - Primeiros passos_
+- [X] 2: _JavaScript - Array e loop For_
+- [X] 3: _JavaScript - Lógica de Programação e Algoritmos_
+- [X] 4: _JavaScript - Objetos e funções_
+- [X] 5: _[Projeto - Playground Functions]()_
 
 #### Bloco 5: JavaScript: DOM, Eventos e Web Storage
 
-- [ ] 1: _JavaScript - DOM e seletores_
-- [ ] 2: _JavaScript - Trabalhando com elementos_
-- [ ] 3: _JavaScript - Eventos_
-- [ ] 4: _JavaScript - Web Storage_
-- [ ] 5: _Fundamentos - JavaScript - Projetos_
-- [ ] 5: _[Projeto - Arte com Pixels]()_
-- [ ] 6: _[Projeto - Lista de tarefas]()_
-- [ ] 7: _[Projeto - Meme Generator]()_
-- [ ] 7: _[Projeto - Adivinhe a Cor]()_
-- [ ] 7: _[Projeto - Carta Misteriosa]()_
+- [X] 1: _JavaScript - DOM e seletores_
+- [X] 2: _JavaScript - Trabalhando com elementos_
+- [X] 3: _JavaScript - Eventos_
+- [X] 4: _JavaScript - Web Storage_
+- [X] 5: _Fundamentos - JavaScript - Projetos_
+- [X] 5: _[Projeto - Arte com Pixels]()_
+- [X] 6: _[Projeto - Lista de tarefas]()_
+- [X] 7: _[Projeto - Meme Generator]()_
+- [X] 7: _[Projeto - Adivinhe a Cor]()_
+- [X] 7: _[Projeto - Carta Misteriosa]()_
 
 #### Bloco 6: HTML e CSS: Forms, Flexbox e Responsivo
 
-- [ ] 1: _HTML & CSS - Forms_
-- [ ] 2: _Bibliotecas JavaScript e Frameworks CSS_
-- [ ] 3: _Introdução - CSS Flexbox_
-- [ ] 3: _CSS Flexbox - Part 1_
-- [ ] 4: _CSS Flexbox - Part 2_
-- [ ] 5: _CSS Responsivo - Mobile First_
-- [ ] 6: _[Projeto - Trybewarts]()_
+- [X] 1: _HTML & CSS - Forms_
+- [X] 2: _Bibliotecas JavaScript e Frameworks CSS_
+- [X] 3: _Introdução - CSS Flexbox_
+- [X] 3: _CSS Flexbox - Part 1_
+- [X] 4: _CSS Flexbox - Part 2_
+- [X] 5: _CSS Responsivo - Mobile First_
+- [X] 6: _[Projeto - Trybewarts]()_
 
 #### Bloco 7: Introdução à JavaScript ES6 e Testes Unitários
 
-- [ ] 1: _JavaScript ES6 - let, const, arrow functions e template literals_
-- [ ] 2: _JavaScript ES6 - Fluxo de exceção e Objetos_
-- [ ] 3: _Primeiros passos em Jest_
-- [ ] 4: _[Projeto - JavaScript Testes Unitários]()_
+- [X] 1: _JavaScript ES6 - let, const, arrow functions e template literals_
+- [X] 2: _JavaScript ES6 - Fluxo de exceção e Objetos_
+- [X] 3: _Primeiros passos em Jest_
+- [X] 4: _[Projeto - JavaScript Testes Unitários]()_
 
 #### Bloco 8: Higher Order Functions do JavaScript ES6
 
-- [ ] 1: _JavaScript ES6 -introdução a Higher Order Functions_
-- [ ] 2: _JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort_
-- [ ] 3: _JavaScript ES6 - Higher Order Functions - map e filter_
-- [ ] 4: _JavaScript ES6 - Higher Order Functions - reduce_
-- [ ] 5: _JavaScript ES6 - spread operator, rest parameter, destructuring e mais_
-- [ ] 6: _[Projeto - Zoo functions]()_
+- [X] 1: _JavaScript ES6 -introdução a Higher Order Functions_
+- [X] 2: _JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort_
+- [X] 3: _JavaScript ES6 - Higher Order Functions - map e filter_
+- [X] 4: _JavaScript ES6 - Higher Order Functions - reduce_
+- [X] 5: _JavaScript ES6 - spread operator, rest parameter, destructuring e mais_
+- [X] 6: _[Projeto - Zoo functions]()_
 
 #### Bloco 9: JavaScript e Testes Assíncronos
 
-- [ ] 1: _JavaScript Assíncrono e Callbacks_
-- [ ] 2: _JavaScript Assíncrono - Fetch API e async/await_
+- [X] 1: _JavaScript Assíncrono e Callbacks_
+- [X] 2: _JavaScript Assíncrono - Fetch API e async/await_
 - [ ] 3: _Jest - Testes Assíncronos_
 - [ ] 4: _[Projeto - Carrinho de Compras]()_
 
