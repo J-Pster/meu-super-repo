@@ -42,7 +42,7 @@ Você pode me encontrar no [LinkedIn][1], ou no [WhatsApp][2].
 - [X] 2: _HTML & CSS - Primeiros passos em CSS_
 - [X] 3: _HTML & CSS - Seletores e posicionamento_
 - [X] 4: _HTML Semântico_
-- [X] 5: _[Projeto - Lessons Learned]()_
+- [X] 5: _[Projeto - Lessons Learned](https://j-pster.github.io/)_
 
 #### Bloco 4: Introdução à JavaScript e Lógica de Programação
 
@@ -51,7 +51,7 @@ Você pode me encontrar no [LinkedIn][1], ou no [WhatsApp][2].
 - [X] 2: _JavaScript - Array e loop For_
 - [X] 3: _JavaScript - Lógica de Programação e Algoritmos_
 - [X] 4: _JavaScript - Objetos e funções_
-- [X] 5: _[Projeto - Playground Functions]()_
+- [X] 5: _[Projeto - Playground Functions](https://github.com/J-Pster/playground-functions)_
 
 #### Bloco 5: JavaScript: DOM, Eventos e Web Storage
 
@@ -60,11 +60,11 @@ Você pode me encontrar no [LinkedIn][1], ou no [WhatsApp][2].
 - [X] 3: _JavaScript - Eventos_
 - [X] 4: _JavaScript - Web Storage_
 - [X] 5: _Fundamentos - JavaScript - Projetos_
-- [X] 5: _[Projeto - Arte com Pixels]()_
-- [X] 6: _[Projeto - Lista de tarefas]()_
-- [X] 7: _[Projeto - Meme Generator]()_
-- [X] 7: _[Projeto - Adivinhe a Cor]()_
-- [X] 7: _[Projeto - Carta Misteriosa]()_
+- [X] 5: _[Projeto - Arte com Pixels](https://github.com/J-Pster/pixels-art)_
+- [X] 6: _[Projeto - Lista de tarefas](https://github.com/J-Pster/todo-list)_
+- [X] 7: _[Projeto - Meme Generator](https://github.com/J-Pster/meme-generator)_
+- [X] 7: _[Projeto - Adivinhe a Cor](https://github.com/J-Pster/color-guess)_
+- [X] 7: _[Projeto - Carta Misteriosa](https://github.com/J-Pster/mistery-letter)_
 
 #### Bloco 6: HTML e CSS: Forms, Flexbox e Responsivo
 
@@ -74,14 +74,14 @@ Você pode me encontrar no [LinkedIn][1], ou no [WhatsApp][2].
 - [X] 3: _CSS Flexbox - Part 1_
 - [X] 4: _CSS Flexbox - Part 2_
 - [X] 5: _CSS Responsivo - Mobile First_
-- [X] 6: _[Projeto - Trybewarts]()_
+- [X] 6: _[Projeto - Trybewarts](https://github.com/J-Pster/trybewarts)_
 
 #### Bloco 7: Introdução à JavaScript ES6 e Testes Unitários
 
 - [X] 1: _JavaScript ES6 - let, const, arrow functions e template literals_
 - [X] 2: _JavaScript ES6 - Fluxo de exceção e Objetos_
 - [X] 3: _Primeiros passos em Jest_
-- [X] 4: _[Projeto - JavaScript Testes Unitários]()_
+- [X] 4: _[Projeto - JavaScript Testes Unitários](https://github.com/J-Pster/unit-tests)_
 
 #### Bloco 8: Higher Order Functions do JavaScript ES6
 
@@ -90,14 +90,14 @@ Você pode me encontrar no [LinkedIn][1], ou no [WhatsApp][2].
 - [X] 3: _JavaScript ES6 - Higher Order Functions - map e filter_
 - [X] 4: _JavaScript ES6 - Higher Order Functions - reduce_
 - [X] 5: _JavaScript ES6 - spread operator, rest parameter, destructuring e mais_
-- [X] 6: _[Projeto - Zoo functions]()_
+- [X] 6: _[Projeto - Zoo functions](https://github.com/J-Pster/zoo-functions)_
 
 #### Bloco 9: JavaScript e Testes Assíncronos
 
 - [X] 1: _JavaScript Assíncrono e Callbacks_
 - [X] 2: _JavaScript Assíncrono - Fetch API e async/await_
-- [ ] 3: _Jest - Testes Assíncronos_
-- [ ] 4: _[Projeto - Carrinho de Compras]()_
+- [X] 3: _Jest - Testes Assíncronos_
+- [X] 4: _[Projeto - Carrinho de Compras](https://github.com/J-Pster/shopping-cart)_
 
 ## Desenvolvimento Front-end :hourglass_flowing_sand:
 
