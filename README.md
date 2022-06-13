@@ -127,7 +127,7 @@ You can find me on [LinkedIn][1], or on [WhatsApp][2].
 
 - [X] 1: _Components com estado e eventos_
 - [X] 2: _Formulários no React_
-- [X] 3: _[Projeto - Tryunfo]()_
+- [X] 3: _[Projeto - Tryunfo](https://github.com/J-Pster/tryunfo)_
 
 #### Bloco 12: Ciclo de Vida de Componentes e React Router
 
