@@ -121,7 +121,7 @@ You can find me on [LinkedIn][1], or on [WhatsApp][2].
 - [X] 1: _Introdução - React_
 - [X] 1: _'Hello, world!' no React!_
 - [X] 2: _Componentes React_
-- [X] 3: _[Projeto - Sistema Solar]()_
+- [X] 3: _[Projeto - Sistema Solar](https://github.com/J-Pster/solar-system)_
 
 #### Bloco 11: Componentes com Estado, Eventos e Formulários com React
 
