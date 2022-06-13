@@ -117,59 +117,59 @@ You can find me on [LinkedIn][1], or on [WhatsApp][2].
 
 #### Bloco 10: Introdução à React
 
-- [ ] 1: _Introdução - Front-end_
-- [ ] 1: _Introdução - React_
-- [ ] 1: _'Hello, world!' no React!_
-- [ ] 2: _Componentes React_
-- [ ] 3: _[Projeto - Sistema Solar]()_
+- [X] 1: _Introdução - Front-end_
+- [X] 1: _Introdução - React_
+- [X] 1: _'Hello, world!' no React!_
+- [X] 2: _Componentes React_
+- [X] 3: _[Projeto - Sistema Solar]()_
 
 #### Bloco 11: Componentes com Estado, Eventos e Formulários com React
 
-- [ ] 1: _Components com estado e eventos_
-- [ ] 2: _Formulários no React_
-- [ ] 3: _[Projeto - Tryunfo]()_
+- [X] 1: _Components com estado e eventos_
+- [X] 2: _Formulários no React_
+- [X] 3: _[Projeto - Tryunfo]()_
 
 #### Bloco 12: Ciclo de Vida de Componentes e React Router
 
-- [ ] 1: _Ciclo de vida de componentes_
-- [ ] 2: _React Router_
-- [ ] 3: _[Projeto - TrybeTunes]()_
+- [X] 1: _Ciclo de vida de componentes_
+- [X] 2: _React Router_
+- [X] 3: _[Projeto - TrybeTunes]()_
 
 #### Bloco 13: Metodologias Ágeis
 
-- [ ] 1: _Metodologias Ágeis_
-- [ ] 2: _[Projeto - Frontend Online Store]()_
+- [X] 1: _Metodologias Ágeis_
+- [X] 2: _[Projeto - Frontend Online Store]()_
 
 #### Bloco 14: Testes automatizados com React Testing Library
 
-- [ ] 1: _RTL - Primeiros passos_
-- [ ] 2: _RTL - Mocks e Inputs_
-- [ ] 3: _RTL - Testando React Router_
-- [ ] 4: _[Projeto - Testes em React]()_
+- [X] 1: _RTL - Primeiros passos_
+- [X] 2: _RTL - Mocks e Inputs_
+- [X] 3: _RTL - Testando React Router_
+- [X] 4: _[Projeto - Testes em React]()_
 
 #### Bloco 15: Gerenciamento de estado com Redux
 
-- [ ] 1: _Introdução ao Redux - O estado global da aplicação_
-- [ ] 2: _Usando o Redux no React_
-- [ ] 3: _Usando o Redux no React - Prática_
-- [ ] 4: _Usando o Redux no React - Actions Assíncronas_
-- [ ] 5: _Testes em React-Redux_
-- [ ] 6: _[Projeto - Trybe Wallet]()_
+- [X] 1: _Introdução ao Redux - O estado global da aplicação_
+- [X] 2: _Usando o Redux no React_
+- [X] 3: _Usando o Redux no React - Prática_
+- [X] 4: _Usando o Redux no React - Actions Assíncronas_
+- [X] 5: _Testes em React-Redux_
+- [X] 6: _[Projeto - Trybe Wallet]()_
 
 #### Bloco 16: Projeto Jogo de Trivia
 
-- [ ] 1: _[Projeto - Jogo de Trivia]()_
+- [X] 1: _[Projeto - Jogo de Trivia]()_
 
 #### Bloco 17: React & Context API
 
-- [ ] 1: _Context API do React_
-- [ ] 2: _React Hooks - useState e useContext_
-- [ ] 3: _React Hooks - useEffect e Hooks customizados_
-- [ ] 4: _[Projeto - StarWars Datatable com Context API e Hooks]()_
+- [X] 1: _Context API do React_
+- [X] 2: _React Hooks - useState e useContext_
+- [X] 3: _React Hooks - useEffect e Hooks customizados_
+- [X] 4: _[Projeto - StarWars Datatable com Context API e Hooks]()_
 
 #### Bloco 18: Projeto App de Receitas
 
-- [ ] 1: _[Projeto - App de Receitas]()_
+- [X] 1: _[Projeto - App de Receitas]()_
 
 ## Desenvolvimento Back-end :hourglass_flowing_sand:
 
