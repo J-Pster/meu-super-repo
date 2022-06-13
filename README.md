@@ -1,19 +1,31 @@
 # Trybe
 
+This repository contains all learning activities developed by _[João Pedro Viana Freitas](https://www.linkedin.com/in/joaopster/)_ while studying at [Trybe](https://www.betrybe.com/) :rocket:
+
 Este repositório contém todas as atividades de aprendizagem desenvolvidas por _[João Pedro Viana Freitas](https://www.linkedin.com/in/joaopster/)_ enquanto estudava na [Trybe](https://www.betrybe.com/) :rocket:
 
+EN:
+_"Trybe is a school of the future for anyone who wants to improve their life and build a successful career in technology, where it only pays to get a good job."_
+
+The program has over 1,500 hours of live online classes, covers introduction to software development, front-end, back-end, computer science, software engineering, agile methodologies and behavioral skills.
+
+PT-BR:
 _"A Trybe é uma escola do futuro para qualquer pessoa que queira melhorar de vida e construir uma carreira de sucesso em tecnologia, onde a pessoa só paga quando conseguir um bom trabalho."_
 
 O programa conta com mais de 1.500 horas de aulas online ao vivo, aborda introdução ao desenvolvimento de software, front-end, back-end, ciência da computação, engenharia de software, metodologias ágeis e habilidades comportamentais.
 
-# Sobre Mim! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-Olá, eu sou o João Pster, sou um Desenvolvedor Web Full-Stack, atuo na área da tecnologia desde muito pequeno (16 Anos), sempre fui interessado em aprender, criar e melhorar coisas que gerem valor na vida das pessoas.
+# About Me!
 
-Tenho uma grande desenvoltura para administrar (liderar) grupos de qualquer tipo, sou um bom orador e professor, tenho facilidade para desenvolver projetos de organização e geralmente sou muito rápido para executar meus trabalhos. Sou um rápido e bom escritor, amante da língua culta, conhecedor vasto da gramática e escrita formal com extenso vocabulário, meus conhecimentos são muito variados e tenho várias habilidades, posso dizer que mesmo tendo 18 anos eu sou um "ancião" da internet (principalmente pelo fato de ter passado minha infância inteira nela) e já tive contato com quase todo tipo de experiência, conhecimento e área.
+Hello, my name is John Pster and I am a Web Developer.
+My job is to create websites and solutions, for every kind of business.
 
-Tenho grande facilidade de me concentrar e finalizar uma tarefa rapidamente, habilidade de perceber outros pontos de vistas e discrepâncias entre ideias, sempre fui muito iniciativo e autônomo, tenho interesse por áreas e tópicos diversos e facilidade para interagir com pessoas mais velhas.
+My biggest goal is to be able to add the most value wherever I am, so since I was a kid I focus on my studies (Hard and Soft Skills), on evolving and improving myself and those things and people around me.
 
-Você pode me encontrar no [LinkedIn][1], ou no [WhatsApp][2].
+I started as a self-taught person and still am to this day, learning communication, development, design, leadership, in practice, and many other things, in 2022 I joined @Trybe and here I am learning everything about Full-Stack Web Development and also Soft Skills like self-leadership, creativity, leadership, collaboration, communication, emotional intelligence and critical thinking.
+
+Today I see myself as a leader, developer, student and teacher, organized and focused on adding maximum value in what I do, and I believe, that if you are a recruiter, you are the best chance, for me to do this for your company, for you.
+
+You can find me on [LinkedIn][1], or on [WhatsApp][2].
 
 <!-- Resources -->
 <!-- links to your social media accounts -->
