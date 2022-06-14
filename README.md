@@ -1,4 +1,4 @@
-# Trybe
+# Trybe - See my projects Above!
 
 This repository contains all learning activities developed by _[João Pedro Viana Freitas](https://www.linkedin.com/in/joaopster/)_ while studying at [Trybe](https://www.betrybe.com/) :rocket:
 
