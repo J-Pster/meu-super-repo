@@ -154,7 +154,7 @@ You can find me on [LinkedIn][1], or on [WhatsApp][2].
 - [X] 3: _Usando o Redux no React - Prática_
 - [X] 4: _Usando o Redux no React - Actions Assíncronas_
 - [X] 5: _Testes em React-Redux_
-- [X] 6: _[Projeto - Trybe Wallet]()_
+- [X] 6: _[Projeto - Trybe Wallet](https://github.com/J-Pster/Trybe-Wallet)_
 
 #### Bloco 16: Projeto Jogo de Trivia
 
