@@ -158,7 +158,7 @@ You can find me on [LinkedIn][1], or on [WhatsApp][2].
 
 #### Bloco 16: Projeto Jogo de Trivia
 
-- [X] 1: _[Projeto - Jogo de Trivia]()_
+- [X] 1: _[Projeto - Jogo de Trivia](https://github.com/J-Pster/Trivia-React-Redux)_
 
 #### Bloco 17: React & Context API
 
