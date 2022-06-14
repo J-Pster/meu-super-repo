@@ -145,7 +145,7 @@ You can find me on [LinkedIn][1], or on [WhatsApp][2].
 - [X] 1: _RTL - Primeiros passos_
 - [X] 2: _RTL - Mocks e Inputs_
 - [X] 3: _RTL - Testando React Router_
-- [X] 4: _[Projeto - Testes em React]()_
+- [X] 4: _[Projeto - Testes em React](https://github.com/J-Pster/react-testing-library)_
 
 #### Bloco 15: Gerenciamento de estado com Redux
 
