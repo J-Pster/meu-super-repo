@@ -138,7 +138,7 @@ You can find me on [LinkedIn][1], or on [WhatsApp][2].
 #### Bloco 13: Metodologias Ágeis
 
 - [X] 1: _Metodologias Ágeis_
-- [X] 2: _[Projeto - Frontend Online Store]()_
+- [X] 2: _[Projeto - Frontend Online Store](https://github.com/J-Pster/frontend-online-store)_
 
 #### Bloco 14: Testes automatizados com React Testing Library
 
