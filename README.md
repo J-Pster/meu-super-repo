@@ -133,7 +133,7 @@ You can find me on [LinkedIn][1], or on [WhatsApp][2].
 
 - [X] 1: _Ciclo de vida de componentes_
 - [X] 2: _React Router_
-- [X] 3: _[Projeto - TrybeTunes]()_
+- [X] 3: _[Projeto - TrybeTunes](https://github.com/J-Pster/TrybeTunes)_
 
 #### Bloco 13: Metodologias Ágeis
 
