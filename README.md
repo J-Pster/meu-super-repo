@@ -175,59 +175,59 @@ You can find me on [LinkedIn][1], or on [WhatsApp][2].
 
 #### BBloco 19: Docker: Utilizando Containers
 
-- [ ] 1: _Introdução - Back-end_
-- [ ] 1: _Utilizando Containers - Docker_
-- [ ] 2: _Manipulação e Criação de Imagens no Docker_
-- [ ] 3: _Orquestrando Containers com Docker Compose_
-- [ ] 4: _[Projeto - Docker Todo-list]()_
+- [X] 1: _Introdução - Back-end_
+- [X] 1: _Utilizando Containers - Docker_
+- [X] 2: _Manipulação e Criação de Imagens no Docker_
+- [X] 3: _Orquestrando Containers com Docker Compose_
+- [X] 4: _[Projeto - Docker Todo-list]()_
 
 #### Bloco 20: Introdução à SQL
 
-- [ ] 1: _Introdução - Bancos de dados relacionais_
-- [ ] 1: _Banco de dados SQL_
-- [ ] 2: _Encontrando dados em um banco de dados_
-- [ ] 3: _Filtrando dados de forma específica_
-- [ ] 4: _Manipulando tabelas
-- [ ] 5: _[Projeto - All For One]()_
+- [X] 1: _Introdução - Bancos de dados relacionais_
+- [X] 1: _Banco de dados SQL_
+- [X] 2: _Encontrando dados em um banco de dados_
+- [X] 3: _Filtrando dados de forma específica_
+- [X] 4: _Manipulando tabelas
+- [X] 5: _[Projeto - All For One]()_
 
 #### Bloco 21: Funções SQL, JOINs e Normalização
 
-- [ ] 1: _Funções mais usadas no SQL_
-- [ ] 2: _Descomplicando JOINs_
-- [ ] 3: _Transformando ideias em um modelo de banco de dados_
-- [ ] 4: _[Projeto - One For All]()_
+- [X] 1: _Funções mais usadas no SQL_
+- [X] 2: _Descomplicando JOINs_
+- [X] 3: _Transformando ideias em um modelo de banco de dados_
+- [X] 4: _[Projeto - One For All]()_
 
 #### Bloco 22: Introdução ao desenvolvimento Web com Node.js
 
-- [ ] 1: _Intro - Node.js_
-- [ ] 1: _Node.js - Um motor JavaScript_
-- [ ] 2: _Node.js - Fluxo assíncrono_
-- [ ] 3: _Mocha, Chai, Sinon - Testes de Back-end com Node.js_
-- [ ] 4: _Express - HTTP com Node.js_
-- [ ] 5: _Express - Middlewares_
-- [ ] 6: _[Projeto - Talker Manager]()_
+- [X] 1: _Intro - Node.js_
+- [X] 1: _Node.js - Um motor JavaScript_
+- [X] 2: _Node.js - Fluxo assíncrono_
+- [X] 3: _Mocha, Chai, Sinon - Testes de Back-end com Node.js_
+- [X] 4: _Express - HTTP com Node.js_
+- [X] 5: _Express - Middlewares_
+- [X] 6: _[Projeto - Talker Manager]()_
 
 #### Bloco 23: Node.js: Camada de Serviço e Arquitetura Rest e Restful
 
-- [ ] 1: _Introdução - Arquitetura de Software_
-- [ ] 1: _Arquitetura de Software - Camada de Model_
-- [ ] 2: _Arquitetura de Software - Camada de Controller e Service_
-- [ ] 3: _Arquitetura Web - Rest e Restful_
-- [ ] 4: _Arquitetura de Software - Testando as Camadas_
-- [ ] 5: _[Projeto - Store Manager]()_
+- [X] 1: _Introdução - Arquitetura de Software_
+- [X] 1: _Arquitetura de Software - Camada de Model_
+- [X] 2: _Arquitetura de Software - Camada de Controller e Service_
+- [X] 3: _Arquitetura Web - Rest e Restful_
+- [X] 4: _Arquitetura de Software - Testando as Camadas_
+- [X] 5: _[Projeto - Store Manager]()_
 
 #### Bloco 24: Node.js: ORM e Autenticação
 
-- [ ] 1: _Introdução - Node.js: ORM e Autenticação_
-- [ ] 1: _ORM - Interface da aplicação com o banco de dados_
-- [ ] 2: _ORM - Associations_
-- [ ] 3: _JWR - JSON Web Token_
-- [ ] 4: _[Projeto - API de Blogs]()_
+- [X] 1: _Introdução - Node.js: ORM e Autenticação_
+- [X] 1: _ORM - Interface da aplicação com o banco de dados_
+- [X] 2: _ORM - Associations_
+- [X] 3: _JWR - JSON Web Token_
+- [X] 4: _[Projeto - API de Blogs]()_
 
 #### Bloco 25: Deployment
 
-- [ ] 1: _Introdução - Deploy_
-- [ ] 1: _Infraestrutura - Deploy com Heroku_
+- [X] 1: _Introdução - Deploy_
+- [X] 1: _Infraestrutura - Deploy com Heroku_
 - [ ] 2: _Deploy Docker & Heroku_
 - [ ] 3: _[Projeto - Stranger Things]()_
 
