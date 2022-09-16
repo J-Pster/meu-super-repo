@@ -1,4 +1,4 @@
-# Trybe - [See my projects!](https://github.com/J-Pster/meu-super-repo#fundamentos-do-desenvolvimento-web-hourglass_flowing_sand)
+# Trybe - [Veja meus projetos!](https://github.com/J-Pster/meu-super-repo#fundamentos-do-desenvolvimento-web-hourglass_flowing_sand)
 
 This repository contains all learning activities developed by _[João Pedro Viana Freitas](https://www.linkedin.com/in/joaopster/)_ while studying at [Trybe](https://www.betrybe.com/) :rocket:
 
