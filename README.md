@@ -228,25 +228,25 @@ You can find me on [LinkedIn][1], or on [WhatsApp][2].
 
 - [X] 1: _Introdução - Deploy_
 - [X] 1: _Infraestrutura - Deploy com Heroku_
-- [ ] 2: _Deploy Docker & Heroku_
-- [ ] 3: _[Projeto - Stranger Things]()_
+- [X] 2: _Deploy Docker & Heroku_
+- [X] 3: _[Projeto - Stranger Things]()_
 
 #### Bloco 26: TypeScript
 
-- [ ] 1: _Introdução - TypeScript_
-- [ ] 1: _Introdução ao TypeScript_
-- [ ] 2: _Tipagem Estática e Generics_
-- [ ] 3: _Express com TypeScript_
-- [ ] 4: _[Projeto Trybe Smith]()_
+- [X] 1: _Introdução - TypeScript_
+- [X] 1: _Introdução ao TypeScript_
+- [X] 2: _Tipagem Estática e Generics_
+- [X] 3: _Express com TypeScript_
+- [X] 4: _[Projeto Trybe Smith]()_
 
 #### Bloco 27: Programação Orientada a Objetos (POO) e SOLID
 
-- [ ] 1: _Introdução à Orientação a Objetos_
-- [ ] 2: _Herança e Interfaces_
-- [ ] 3: _Polimorfismo_
-- [ ] 4: _SOLID - Introdução_
-- [ ] 5: _SOLID - Continuação_
-- [ ] 6: _[Projeto - Trybers and Dragons]()_
+- [X] 1: _Introdução à Orientação a Objetos_
+- [X] 2: _Herança e Interfaces_
+- [X] 3: _Polimorfismo_
+- [X] 4: _SOLID - Introdução_
+- [X] 5: _SOLID - Continuação_
+- [X] 6: _[Projeto - Trybers and Dragons]()_
 
 #### Bloco 28: Projeto - TFC - Trybe Futebol Clube
 
